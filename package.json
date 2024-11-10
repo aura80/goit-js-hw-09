@@ -25,8 +25,11 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
+    "autoprefixer": "^10.4.20",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0",
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
